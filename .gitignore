@@ -1,0 +1,14 @@
+src/main/java/za/co/ilab/automation/images/
+src/main/java/za/co/ilab/automation/extentreport/
+build/
+.idea/
+.gradle/
+target/
+out/
+data/
+*.log
+*.ipr
+*.iws
+*.iml
+.DS_Store
+ApplicationAutomationTest.iml
